@@ -1,0 +1,116 @@
+* {
+  background-color: #ffd6aa;
+  border: 1px solid blue;
+}
+.footer-new {
+  background-color: grey;
+}
+
+.sec {
+  grid-column: 2;
+}
+
+.container-flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.head-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* flex-direction:column;*/
+}
+
+header {
+  border: solid grey;
+  width: 1200px;
+  height: 100px;
+  justify-content: top;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.mid-container {
+  border: solid grey;
+  width: 1200px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+/*  .mid-container > div {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+       } 
+        */
+
+.main-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: solid blue;
+  width: 1200px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.Cake-details {
+  display: flex;
+  flex-direction: column;
+  border: solid green;
+  width: 30%;
+  height: 400px;
+  justify-content: space-evenly;
+}
+
+.Procedure {
+  border: solid red;
+  width: 30%;
+  height: 400px;
+}
+.Ingredients {
+  border: solid orange;
+  width: 30%;
+  height: 400px;
+}
+/*
+.main-flex > .flex-container1 > div{
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    
+   /* */
+
+/*.main-flex > .flex-container2  {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    
+   /* */
+
+.flex-container1 > div {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer1-container {
+  border: solid grey;
+  width: 1200px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.footer2-container {
+  border: solid grey;
+  width: 1200px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.morecakes {
+  align-items: right;
+}

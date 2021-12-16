@@ -1,0 +1,14 @@
+Cake colors: 
+#D47A6A red
+#457585 blue
+#4E9C68 green
+
+others: 
+#804C15 brown
+#552C00 brown
+#FFD6AA bright 
+#D4A16A less bright
+
+
+Source:
+https://paletton.com/#uid=7070u0kllllaFw0g0qFqFg0w0aF
